@@ -1,6 +1,4 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 r
 B.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_8.xml,c/9/c9b9fa7084f0db9b73e7c102d704b84849bae6b5
 o
@@ -35,8 +33,6 @@ d
 4.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml,6/2/6284eecedd2d85fb3913164f96df4582210062ba
 q
 A.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml,a/7/a7a503ce97eedf9d8473a6bb1e64a0973b451e62
-v
-F.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml,0/2/02d343b9b5c40c9dc7299e4cf12f13714aa26b77
 g
 7.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml,8/2/8214829f195aec4e9e33054d3f2cbfeea7028cdb
 ç
@@ -69,8 +65,6 @@ p
 ..idea/libraries/Maven__org_ow2_asm_asm_9_1.xml,7/f/7febba08f503e7469cfdc4eb5d93518761b4acab
 t
 D.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_14_1.xml,2/3/23ee6f1ac667e06f05d6a46acfbd0808bff89bea
-t
-D.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml,9/6/96855871e644ea2682a92f8ab9d8be047ab82b7f
 {
 K.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_48.xml,6/f/6ff12247c118e72976a7dd6c3b317a00bc7a7676
 y

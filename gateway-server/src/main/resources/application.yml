@@ -1,0 +1,20 @@
+
+#apollo ??
+app:
+  id: 100110
+apollo:
+  bootstrap:
+    enabled: true
+    # will inject 'application', 'FX.apollo' and 'application.yml' namespaces in bootstrap phase
+    namespaces: application,eureka-server
+    # put apollo initialization before logging system initialization
+    eagerLoad:
+      enabled: true
+
+spring:
+  profiles:
+    active: '@spring.profiles.active@'
+
+
+
+

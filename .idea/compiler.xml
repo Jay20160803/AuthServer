@@ -8,12 +8,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AuthServer" />
-        <module name="SpringSecurity" />
+        <module name="gateway-server" />
         <module name="SpringBoot" />
+        <module name="SpringSecurity" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="AuthServer" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="parent" target="1.8" />
       <module name="SpringBoot" target="1.8" />
       <module name="SpringSecurity" target="1.8" />
     </bytecodeTargetLevel>
@@ -23,6 +28,9 @@
       <module name="AuthServer" options="-parameters" />
       <module name="SpringBoot" options="-parameters" />
       <module name="SpringSecurity" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="parent" options="-parameters" />
     </option>
   </component>
 </project>
