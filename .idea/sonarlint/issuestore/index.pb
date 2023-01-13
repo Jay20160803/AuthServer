@@ -157,11 +157,7 @@ m
 =SpringBoot/src/main/java/com/andy/springboot/Application.java,b/9/b965527d84d2e9407a87844f5602eaf3c72ef0db
 r
 BSpringBoot/src/test/java/com/andy/springboot/ApplicationTests.java,3/a/3a9d60bac2e020a4a3c18ee47a6e05f3b0d49989
-w
-GAuthServer/src/main/java/com/andy/authserver/AuthServerApplication.java,4/6/4620c2633e856231fc688e982babd4d309dfc16f
 |
 LAuthServer/src/test/java/com/andy/authserver/AuthServerApplicationTests.java,4/7/477277a95b8f000c3d897891762c14d1ca7759fb
 B
 SpringBoot/pom.xml,f/6/f65c74c3ec50c737539e39c6247431595ff45d1b
-B
-AuthServer/pom.xml,7/5/753a259accd3eff0d013cd152fba71ec5ba2de46
