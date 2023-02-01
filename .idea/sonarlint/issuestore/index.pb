@@ -457,5 +457,3 @@ Seureka-server/src/test/java/com/andy/eurekaserver/EurekaServerApplicationTests.
 Qgateway-server/src/main/java/com/andy/gatewayserver/GatewayServerApplication.java,4/7/477e32fd7a777b58d1b177464aadde48027ec113
 †
 Vgateway-server/src/test/java/com/andy/gatewayserver/GatewayServerApplicationTests.java,9/b/9be4934406ef97b3636d34f8de7dd404985cc20c
-E
-eureka-server/pom.xml,b/3/b39ae52d769ea03b699b5602439afd875433c8a7

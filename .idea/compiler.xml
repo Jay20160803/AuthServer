@@ -11,6 +11,8 @@
         <module name="gateway-server" />
         <module name="SpringBoot" />
         <module name="eureka-server" />
+        <module name="ResourceServerCommon" />
+        <module name="SSOServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -18,13 +20,17 @@
       <module name="eureka-server" target="1.8" />
       <module name="gateway-server" target="1.8" />
       <module name="parent" target="1.8" />
+      <module name="ResourceServerCommon" target="1.8" />
       <module name="SpringBoot" target="1.8" />
       <module name="SpringSecurity" target="1.8" />
+      <module name="SSOServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AuthServer" options="-parameters" />
+      <module name="ResourceServerCommon" options="-parameters" />
+      <module name="SSOServer" options="-parameters" />
       <module name="SpringBoot" options="-parameters" />
       <module name="SpringSecurity" options="-parameters" />
       <module name="eureka-server" options="-parameters" />

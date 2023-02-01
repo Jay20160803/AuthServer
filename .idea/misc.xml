@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/AuthServer/pom.xml" />
         <option value="$PROJECT_DIR$/security/AuthServer/pom.xml" />
+        <option value="$PROJECT_DIR$/common/ResourceServerCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/security/SSO/SSOServer/pom.xml" />
       </list>
     </option>
   </component>
