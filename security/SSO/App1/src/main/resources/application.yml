@@ -1,0 +1,17 @@
+server:
+  port: 8001
+  servlet:
+    context-path: /app1
+
+security:
+  oauth2:
+    client:
+      client-id: app1
+      client-secret: app1_secret
+      access-token-uri: http://localhost:8080/oauth/token
+      user-authorization-uri: http://localhost:8080/oauth/authorize
+    resource:
+      jwt:
+        key-uri: http://localhost:8080/oauth/token_key
+        key-value: 123456
+

@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/security/AuthServer/pom.xml" />
         <option value="$PROJECT_DIR$/common/ResourceServerCommon/pom.xml" />
         <option value="$PROJECT_DIR$/security/SSO/SSOServer/pom.xml" />
+        <option value="$PROJECT_DIR$/security/SSO/App1/pom.xml" />
       </list>
     </option>
   </component>
