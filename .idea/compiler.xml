@@ -10,7 +10,6 @@
         <module name="AuthServer" />
         <module name="gateway-server" />
         <module name="SpringBoot" />
-        <module name="SpringSecurity" />
         <module name="eureka-server" />
       </profile>
     </annotationProcessing>
